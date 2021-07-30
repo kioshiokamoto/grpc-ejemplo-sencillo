@@ -1,0 +1,17 @@
+{
+  "name": "guide-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.6.4",
+    "grpc": "^1.24.11",
+    "lodash": "^4.17.21"
+  }
+}
